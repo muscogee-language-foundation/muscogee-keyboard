@@ -1,10 +1,10 @@
 ﻿c muscogee generated from template at 2023-05-06 11:03:58
 c with name "muscogee"
-store(&VERSION) '10.0'
+store(&VERSION) '15.0'
 store(&NAME) 'muscogee'
 store(&COPYRIGHT) '© Muscogee Language Foundation'
 store(&KEYBOARDVERSION) '1.0'
-store(&TARGETS) 'mobile tablet'
+store(&TARGETS) 'mobile desktop tablet'
 store(&BITMAP) 'muscogee.ico'
 store(&VISUALKEYBOARD) 'muscogee.kvks'
 store(&LAYOUTFILE) 'muscogee.keyman-touch-layout'
