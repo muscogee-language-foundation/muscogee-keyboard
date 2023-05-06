@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\julia\Documents\Keyman Developer\Projects\muscogee\muscogee.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_792fb7d648a2de03f0bd362a386426bc</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\source\muscogee.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_ed0ce369104e0893d321985c14c176ee</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\source\muscogee.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_2f7ebb4c3364cf4805c0d44c1b6fc1d0</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\muscogee.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_986d054d3aa8f887e47b5c1a2ea9b936</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\source\muscogee.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_36fd69ce2d4d0a1e5dea3870592f9b7c</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\source\..\build\muscogee.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8e23ec5a9f81e81f314e76a03d69720b</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\source\..\build\muscogee.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_d2a18442b7dca091e3f31b5f61598916</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\source\..\build\muscogee.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>muscogee.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman\source\muscogee.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>muscogee.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\julia\Documents\Keyman Developer\Projects\muscogee\source\muscogee.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>muscogee.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\julia\Documents\Keyman Developer\Projects\muscogee\source\muscogee.kps</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

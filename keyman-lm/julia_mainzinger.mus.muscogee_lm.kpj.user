@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>2</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\julia\Documents\Keyman Developer\Projects\julia_mainzinger.mus.muscogee_lm\julia_mainzinger.mus.muscogee_lm.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_7022e808c9e7166209a9a12524f8a0d5</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman-lm\source\julia_mainzinger.mus.muscogee_lm.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard>C:\Users\julia\Documents\Keyman Developer\Projects\muscogee\build\muscogee.js</TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_fecae206501327fabbf02c01edfd708c</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman-lm\source\julia_mainzinger.mus.muscogee_lm.model.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman-lm\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman-lm\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman-lm\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8cc5b9f0937272057ddcdf15e2af034f</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman-lm\julia_mainzinger.mus.muscogee_lm.model_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_cd97666fdb5ee5dd00dcb12e436bcad3</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman-lm\source\..\build\julia_mainzinger.mus.muscogee_lm.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman-lm\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman-lm\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>julia_mainzinger.mus.muscogee_lm.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>C:\Users\julia\Code\muscogee-keyboard\keyman-lm\source\julia_mainzinger.mus.muscogee_lm.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>julia_mainzinger.mus.muscogee_lm.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>C:\Users\julia\Documents\Keyman Developer\Projects\julia_mainzinger.mus.muscogee_lm\source\julia_mainzinger.mus.muscogee_lm.model.ts</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
