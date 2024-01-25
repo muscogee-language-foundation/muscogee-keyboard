@@ -63,7 +63,7 @@ function Keyboard_muscogee()
                 ]
               },
               {
-                "id": "U_E2",
+                "id": "U_0113",
                 "text": "\u0113",
                 "sk": [
                   {
@@ -294,12 +294,12 @@ function Keyboard_muscogee()
                 ]
               },
               {
-                "id": "K_R",
-                "text": "R"
+                "id": "U_0112",
+                "text": "\u0112"
               },
               {
-                "id": "K_T",
-                "text": "T"
+                "id": "K_R",
+                "text": "R"
               },
               {
                 "id": "K_Y",
@@ -358,12 +358,12 @@ function Keyboard_muscogee()
                 ]
               },
               {
-                "id": "U_0112",
-                "text": "\u0112"
-              },
-              {
                 "id": "K_S",
                 "text": "S"
+              },
+              {
+                "id": "K_T",
+                "text": "T"
               },
               {
                 "id": "K_F",
@@ -380,6 +380,11 @@ function Keyboard_muscogee()
               {
                 "id": "K_L",
                 "text": "L"
+              },
+              {
+                "id": "U_031C",
+                "text": "\u031C",
+                "hint": "\u031C"
               }
             ]
           },
@@ -414,11 +419,6 @@ function Keyboard_muscogee()
               {
                 "id": "K_M",
                 "text": "M"
-              },
-              {
-                "id": "U_031C",
-                "text": "\u031C",
-                "hint": "\u031C"
               },
               {
                 "id": "K_PERIOD",
@@ -917,12 +917,13 @@ function Keyboard_muscogee()
                 ]
               },
               {
-                "id": "K_R",
-                "text": "r"
+                "id": "U_0113",
+                "text": "\u0113",
+                "hint": "\u0113"
               },
               {
-                "id": "K_T",
-                "text": "t"
+                "id": "K_R",
+                "text": "r"
               },
               {
                 "id": "K_Y",
@@ -1011,12 +1012,12 @@ function Keyboard_muscogee()
                 ]
               },
               {
-                "id": "U_E2",
-                "text": "\u0113"
-              },
-              {
                 "id": "K_S",
                 "text": "s"
+              },
+              {
+                "id": "K_T",
+                "text": "t"
               },
               {
                 "id": "K_F",
@@ -1033,6 +1034,11 @@ function Keyboard_muscogee()
               {
                 "id": "K_L",
                 "text": "l"
+              },
+              {
+                "id": "U_031C",
+                "text": "\u031C",
+                "hint": "\u031C"
               }
             ]
           },
@@ -1072,11 +1078,6 @@ function Keyboard_muscogee()
                 "id": "K_M",
                 "text": "m",
                 "hint": "m"
-              },
-              {
-                "id": "U_031C",
-                "text": "\u031C",
-                "hint": "\u031C"
               },
               {
                 "id": "K_PERIOD",

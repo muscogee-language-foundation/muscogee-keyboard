@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>3</tab>
+    <tab>2</tab>
     <showhelp>1</showhelp>
     <path>\\Mac\Home\Documents\Projects\Mvskoke_Code\muscogee-keyboard\keyman-lm\julia_mainzinger.mus.muscogee_lm.kpj</path>
   </ViewState>
@@ -49,5 +49,12 @@
       <FullPath>\\Mac\Home\Documents\Projects\Mvskoke_Code\muscogee-keyboard\keyman-lm\source\readme.htm</FullPath>
     </FileState>
   </FileStates>
-  <MRU/>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>julia_mainzinger.mus.muscogee_lm.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>\\Mac\Home\Documents\Projects\Mvskoke_Code\muscogee-keyboard\keyman-lm\source\julia_mainzinger.mus.muscogee_lm.model.ts</FullPath>
+    </File>
+  </MRU>
 </KeymanDeveloperProjectUser>
